@@ -9,8 +9,11 @@
 food-munch/
 │
 ├── index.html (all the food munch html files named as index html here)
+
 ├── foodmumch.css # Custom styles
+
 ├── script.js # JavaScript interactivity
+
 ├── images/ # Folder for image assets
 
 ---
